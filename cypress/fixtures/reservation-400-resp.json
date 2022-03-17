@@ -1,0 +1,1 @@
+{"status":400,"title":"[Gateway:``] {\"status\":400,\"title\":\"seat reservation error\",\"detail\":\"The seats you have selected are no longer available, please choose another flight\"}","detail":"The seats you have selected are no longer available, please choose another flight","type":"https:\/\/www.w3.org\/Protocols\/rfc2616\/rfc2616-sec10.html"}
